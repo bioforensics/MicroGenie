@@ -3,3 +3,4 @@
 *.fasta
 *.fasta.*
 *.fastq
+__pycache__/
